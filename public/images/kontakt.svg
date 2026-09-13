@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-label="Menschen in der Pflege">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FAF7F2"/>
+      <stop offset="1" stop-color="#EAE3D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="url(#g)"/>
+  <rect x="16" y="16" width="968" height="968" rx="24" fill="none" stroke="#014F7B" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="10 8"/>
+  <circle cx="500" cy="482" r="34" fill="#91D4CD" fill-opacity="0.18"/>
+  <circle cx="500" cy="482" r="16" fill="#91D4CD" fill-opacity="0.55"/>
+  <text x="50%" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#014F7B" fill-opacity="0.75">Menschen in der Pflege</text>
+  <text x="50%" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#014F7B" fill-opacity="0.45">Platzhalter · 1000×1000</text>
+</svg>

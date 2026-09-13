@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Schritt 2 – Messen">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FAF7F2"/>
+      <stop offset="1" stop-color="#EAE3D9"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#g)"/>
+  <rect x="16" y="16" width="868" height="668" rx="24" fill="none" stroke="#014F7B" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="10 8"/>
+  <circle cx="450" cy="332" r="34" fill="#91D4CD" fill-opacity="0.18"/>
+  <circle cx="450" cy="332" r="16" fill="#91D4CD" fill-opacity="0.55"/>
+  <text x="50%" y="390" text-anchor="middle" font-family="Georgia, serif" font-size="32" fill="#014F7B" fill-opacity="0.75">Schritt 2 – Messen</text>
+  <text x="50%" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#014F7B" fill-opacity="0.45">Platzhalter · 900×700</text>
+</svg>
