@@ -66,26 +66,23 @@ export function Team() {
                   <p className="text-xs font-medium uppercase tracking-wide text-accent-strong">
                     {member.role}
                   </p>
-                  <p className="text-pretty text-sm leading-relaxed text-warm-700">
-                    {member.quote}
-                  </p>
                 </div>
 
                 {/* Social-Icons: erscheinen beim Hover / Fokus */}
-                <div className="mt-1 flex gap-2 opacity-0 transition-opacity duration-300 group-hover:opacity-100 group-focus-within:opacity-100">
+                <div className="mt-1 flex gap-3 opacity-0 transition-opacity duration-300 group-hover:opacity-100 group-focus-within:opacity-100">
                   <Link
                     href={member.linkedin}
                     aria-label={`${member.name} auf LinkedIn`}
-                    className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-primary/5 text-ink transition-colors hover:bg-primary hover:text-primary-foreground"
+                    className="inline-flex h-11 w-11 items-center justify-center rounded-full bg-primary/5 text-ink transition-colors hover:bg-primary hover:text-primary-foreground"
                   >
-                    <LinkedInIcon className="h-4 w-4" />
+                    <LinkedInIcon className="h-5 w-5" />
                   </Link>
                   <a
                     href={`mailto:${site.email}`}
                     aria-label={`${member.name} per E-Mail kontaktieren`}
-                    className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-primary/5 text-ink transition-colors hover:bg-primary hover:text-primary-foreground"
+                    className="inline-flex h-11 w-11 items-center justify-center rounded-full bg-primary/5 text-ink transition-colors hover:bg-primary hover:text-primary-foreground"
                   >
-                    <Mail className="h-4 w-4" aria-hidden />
+                    <Mail className="h-5 w-5" aria-hidden />
                   </a>
                 </div>
               </motion.article>
