@@ -77,8 +77,8 @@ export const whatWeDo = {
   features: [
     {
       icon: "Cpu",
-      title: "Sensor & Hardware",
-      text: "Ein kompakter Sensor misst die Flüssigkeitsaufnahme zuverlässig und wartungsarm.",
+      title: "Hardware",
+      text: "Unsere HILDE misst die Flüssigkeitsaufnahme kontinuierlich und zuverlässig.",
       image: "/images/was-wir-machen-1.svg",
     },
     {
