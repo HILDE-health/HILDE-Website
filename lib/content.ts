@@ -47,7 +47,7 @@ export const heroClaimVarianten = [
 export const hero = {
   claim: heroClaimVarianten[0],
   subline:
-    "Hilde erkennt frühzeitig, wenn pflegebedürftige und ältere Menschen zu wenig trinken – unaufdringlich, zuverlässig und nahtlos im Pflegealltag.",
+    "Hilde erkennt frühzeitig, wenn pflegebedürftige und ältere Menschen zu wenig trinken – zuverlässig und nahtlos im Pflegealltag.",
   primaryCta: { label: "Produkt entdecken", href: "#produkt" },
   secondaryCta: { label: "Demo vereinbaren", href: "#kontakt" },
   image: {
