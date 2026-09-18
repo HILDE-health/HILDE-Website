@@ -1,7 +1,7 @@
 "use client";
 
 /* ════════════════════════════════════════════════════════════════
- *  SEKTION 5 · Team – "Menschen hinter Hilde"
+ *  SEKTION 5 · Team – "Menschen hinter HILDE"
  *  Grid mit Team-Cards (Foto, Name, Rolle, Zitat).
  *  Hover: sanfte Skalierung + Social-Icons blenden ein.
  *  Fotos: public/team – Inhalte: lib/content.ts → `team`

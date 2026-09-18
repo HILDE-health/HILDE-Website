@@ -9,7 +9,7 @@ import { WhatWeDo } from "@/components/sections/what-we-do";
 
 /**
  * ────────────────────────────────────────────────────────────────
- *  Hilde · One-Page-Website
+ *  HILDE · One-Page-Website
  *  Sektionen liegen einzeln unter components/sections/ und lassen
  *  sich hier in der Reihenfolge tauschen oder entfernen.
  *   1. Navigation   2. Hero        3. Was wir machen

@@ -1,6 +1,6 @@
-# Hilde – One-Page-Website
+# HILDE – One-Page-Website
 
-Moderne, seriöse Landingpage für das Health-Tech-Startup **Hilde** –
+Moderne, seriöse Landingpage für das Health-Tech-Startup **HILDE** –
 smartes Hydrations-Monitoring für pflegebedürftige und ältere Menschen.
 
 Aufbau, Feel und Interaktivität sind an eine Produkt-Landingpage angelehnt,
@@ -58,7 +58,7 @@ components/
     contact.tsx         6 · Ansprache + Formular (Rolle-Dropdown, DSGVO)
     site-footer.tsx     7 · 4 Spalten + Newsletter + Copyright
   ui/                   shadcn/ui-Basiskomponenten (an Palette angepasst)
-  logo.tsx              Wortmarke „Hilde" (Platzhalter – gegen echtes Logo tauschen)
+  logo.tsx              Wortmarke „HILDE" (Platzhalter – gegen echtes Logo tauschen)
   reveal.tsx            Wrapper für „beim Scrollen einblenden"
   section-heading.tsx   Einheitlicher Kicker + Headline + Text
   media-frame.tsx       Optionaler Bild-Rahmen mit Platzhalter-Tag
@@ -125,7 +125,7 @@ gefüllt werden (Zahlen, Zitate, Rollen, Links, Rechtstexte).
 wählt aktuell den ersten. Einfach Index tauschen oder eigenen Text setzen:
 
 1. „Hydration, die Leben schützt.“ *(aktiv)*
-2. „Genug getrunken? Hilde weiß es.“
+2. „Genug getrunken? HILDE weiß es.“
 3. „Sicherheit, die man trinken kann.“
 
 ### 4. Bilder

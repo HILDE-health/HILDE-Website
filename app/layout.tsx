@@ -15,11 +15,11 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Hilde – Smartes Hydrations-Monitoring für die Pflege",
+  title: "HILDE – Smartes Hydrations-Monitoring für die Pflege",
   description:
-    "Hilde entwickelt ein smartes Hydrations-Monitoring für pflegebedürftige und ältere Menschen – zuverlässig, unaufdringlich und alltagstauglich.",
+    "HILDE entwickelt ein smartes Hydrations-Monitoring für pflegebedürftige und ältere Menschen – zuverlässig, unaufdringlich und alltagstauglich.",
   openGraph: {
-    title: "Hilde – Smartes Hydrations-Monitoring für die Pflege",
+    title: "HILDE – Smartes Hydrations-Monitoring für die Pflege",
     description:
       "Zuverlässige Flüssigkeitsüberwachung für pflegebedürftige und ältere Menschen.",
     locale: "de_DE",

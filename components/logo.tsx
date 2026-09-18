@@ -1,7 +1,7 @@
 import { cn } from "@/lib/utils";
 
 /**
- * Hilde-Wortmarke (Platzhalter).
+ * HILDE-Wortmarke (Platzhalter).
  * Schriftzug (Helvetica Neue Bold) + Tropfen-Punkt. Später durch
  * echtes Logo/SVG ersetzen – z. B. /public/logo.svg via next/image.
  */
@@ -13,7 +13,7 @@ export function Logo({ className }: { className?: string }) {
         className,
       )}
     >
-      Hilde
+      HILDE
       <svg
         width="10"
         height="14"
@@ -27,7 +27,7 @@ export function Logo({ className }: { className?: string }) {
           fill="currentColor"
         />
       </svg>
-      <span className="sr-only">Hilde – Startseite</span>
+      <span className="sr-only">HILDE – Startseite</span>
     </span>
   );
 }

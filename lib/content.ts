@@ -10,7 +10,7 @@
  */
 
 export const site = {
-  name: "Hilde",
+  name: "HILDE",
   claimShort: "Smartes Hydrations-Monitoring für die Pflege",
   email: "kontakt@hilde-health.de", // [PLATZHALTER]
   phone: "+49 (0)30 123 456 78", // [PLATZHALTER]
@@ -31,7 +31,7 @@ export const nav = {
     { label: "Team", href: "#team" },
     { label: "Kontakt", href: "#kontakt" },
   ],
-  // Login-Button oben rechts – führt zur Hilde-Web-App (öffnet in neuem Tab)
+  // Login-Button oben rechts – führt zur HILDE-Web-App (öffnet in neuem Tab)
   cta: { label: "Einloggen", href: "https://hilde-app.web.app" },
 };
 
@@ -40,19 +40,19 @@ export const nav = {
  * `hero.claim` eintragen (Index 0–2) oder eigenen Text setzen. */
 export const heroClaimVarianten = [
   "We make hydration measurable.",
-  "Genug getrunken? Hilde weiß es.",
+  "Genug getrunken? HILDE weiß es.",
   "Sicherheit, die man trinken kann.",
 ];
 
 export const hero = {
   claim: heroClaimVarianten[0],
   subline:
-    "Hilde erkennt frühzeitig, wenn pflegebedürftige und ältere Menschen zu wenig trinken – zuverlässig und nahtlos im Pflegealltag.",
+    "HILDE erkennt frühzeitig, wenn pflegebedürftige und ältere Menschen zu wenig trinken – zuverlässig und nahtlos im Pflegealltag.",
   primaryCta: { label: "Produkt entdecken", href: "#produkt" },
   secondaryCta: { label: "Demo vereinbaren", href: "#kontakt" },
   image: {
     src: "/photos/prototype-wireframe.png", // technische Zeichnung des Prototyps
-    alt: "Technische Zeichnung des Hilde-Trinkgefäßes auf der smarten Basisstation",
+    alt: "Technische Zeichnung des HILDE-Trinkgefäßes auf der smarten Basisstation",
     width: 556,
     height: 925,
   },
@@ -73,7 +73,7 @@ export const whatWeDo = {
   eyebrow: "Was wir machen",
   title: "Ein System, das mitdenkt – ohne den Alltag zu stören",
   description:
-    "Hilde verbindet unauffällige Sensorik mit einer klaren Übersicht für Pflegekräfte und Angehörige.",
+    "HILDE verbindet unauffällige Sensorik mit einer klaren Übersicht für Pflegekräfte und Angehörige.",
   features: [
     {
       icon: "Cpu",
@@ -90,7 +90,7 @@ export const whatWeDo = {
     {
       icon: "HeartHandshake",
       title: "Integration in den Pflegealltag",
-      text: "Hilde fügt sich in bestehende Abläufe und Dokumentationssysteme ein, statt zusätzliche Arbeit zu schaffen.",
+      text: "HILDE fügt sich in bestehende Abläufe und Dokumentationssysteme ein, statt zusätzliche Arbeit zu schaffen.",
       image: "/images/was-wir-machen-3.svg",
     },
   ],
@@ -104,12 +104,12 @@ export const whatWeDo = {
       },
       {
         title: "Messen",
-        text: "Hilde erfasst die Trinkmenge kontinuierlich und im Hintergrund, ganz ohne Zutun der Pflegekraft.",
+        text: "HILDE erfasst die Trinkmenge kontinuierlich und im Hintergrund, ganz ohne Zutun der Pflegekraft.",
         image: "/images/schritt-2.svg",
       },
       {
         title: "Reagieren",
-        text: "Bei Auffälligkeiten meldet sich Hilde rechtzeitig – mit klarer Handlungsempfehlung.",
+        text: "Bei Auffälligkeiten meldet sich HILDE rechtzeitig – mit klarer Handlungsempfehlung.",
         image: "/images/schritt-3.svg",
       },
     ],
@@ -126,7 +126,7 @@ export const newsSection = {
     {
       category: "News",
       date: "2026-05-02",
-      title: "Meet Hilde Health beim TUM Entrepreneurship Day",
+      title: "Meet HILDE Health beim TUM Entrepreneurship Day",
       teaser:
         "Wir waren auf unserer ersten Messe beim TUM Entrepreneurship Day und konnten mit vielen Interessenten sprechen.",
       image: "/photos/tum-entrepreneurship-day.jpeg",
@@ -139,7 +139,7 @@ export const newsSection = {
  * Fotos sind echt (public/team). Rollen & Zitate sind noch
  * Platzhalter – bitte gegen die echten Angaben tauschen. */
 export const team = {
-  eyebrow: "Menschen hinter Hilde",
+  eyebrow: "Menschen hinter HILDE",
   title: "Ein Team aus Pflege, Technik und Produkt",
   description:
     "Wir verbinden Erfahrung aus der Pflegepraxis mit Produkt- und Ingenieur-Know-how.",
@@ -164,7 +164,7 @@ export const team = {
     {
       name: "Sophia Willmann",
       role: "Pflege & Partnerschaften", // [PLATZHALTER: Rolle prüfen]
-      quote: "„Wir bauen Hilde mit den Menschen, die sie später nutzen.“", // [PLATZHALTER]
+      quote: "„Wir bauen HILDE mit den Menschen, die sie später nutzen.“", // [PLATZHALTER]
       image: "/team/sophia-willmann.jpg",
       linkedin: "#", // [PLATZHALTER: LinkedIn-URL]
     },
@@ -200,10 +200,10 @@ export const contact = {
 /* ── 7. Footer ───────────────────────────────────────────── */
 export const footer = {
   tagline:
-    "Hilde entwickelt smartes Hydrations-Monitoring für pflegebedürftige und ältere Menschen.",
+    "HILDE entwickelt smartes Hydrations-Monitoring für pflegebedürftige und ältere Menschen.",
   columns: [
     {
-      title: "Über Hilde",
+      title: "Über HILDE",
       links: [
         { label: "Was wir machen", href: "#produkt" },
         { label: "Über uns", href: "#ueber-uns" },
@@ -235,5 +235,5 @@ export const footer = {
     disclaimer:
       "Mit der Anmeldung stimmen Sie dem Erhalt des Newsletters zu. Abmeldung jederzeit möglich.",
   },
-  legalLine: `© ${new Date().getFullYear()} Hilde Health GmbH. Alle Rechte vorbehalten.`,
+  legalLine: `© ${new Date().getFullYear()} HILDE Health GmbH. Alle Rechte vorbehalten.`,
 };

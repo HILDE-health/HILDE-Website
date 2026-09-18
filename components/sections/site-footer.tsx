@@ -2,7 +2,7 @@
 
 /* ════════════════════════════════════════════════════════════════
  *  SEKTION 7 · Footer
- *  Vier Spalten: Über Hilde · Produkt · Rechtliches · Newsletter
+ *  Vier Spalten: Über HILDE · Produkt · Rechtliches · Newsletter
  *  + Copyright-Zeile. Inhalte: lib/content.ts → `footer`, `site`
  * ════════════════════════════════════════════════════════════════ */
 
@@ -21,7 +21,7 @@ export function SiteFooter() {
   return (
     <footer className="border-t border-border bg-warm-50">
       <div className="container grid gap-12 py-16 md:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1.6fr]">
-        {/* Über Hilde */}
+        {/* Über HILDE */}
         <div className="flex flex-col gap-4">
           <Logo />
           <p className="max-w-xs text-pretty text-sm leading-relaxed text-warm-600">

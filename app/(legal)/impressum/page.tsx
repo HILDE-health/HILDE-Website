@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Impressum – Hilde" };
+export const metadata: Metadata = { title: "Impressum – HILDE" };
 
 /* TODO: Pflichtangaben nach § 5 DDG / § 18 MStV vervollständigen
    (Registereintrag, USt-IdNr., vertretungsberechtigte Person) und
@@ -11,7 +11,7 @@ export default function ImpressumPage() {
       <h1 className="font-display text-3xl text-ink">Impressum</h1>
       <h2 className="font-display text-xl text-ink">Angaben gemäß § 5 DDG</h2>
       <p className="text-warm-600">
-        Hilde Health GmbH
+        HILDE Health GmbH
         <br />
         Musterstraße 1, 10115 Berlin
       </p>

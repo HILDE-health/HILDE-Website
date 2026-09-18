@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Datenschutz – Hilde" };
+export const metadata: Metadata = { title: "Datenschutz – HILDE" };
 
 /* TODO: Vollständige Datenschutzerklärung nach DSGVO ergänzen und
    rechtlich prüfen lassen (Kontaktformular, Newsletter, Hosting,
@@ -16,7 +16,7 @@ export default function DatenschutzPage() {
       </p>
       <h2 className="font-display text-xl text-ink">Verantwortlich</h2>
       <p className="text-warm-600">
-        Hilde Health GmbH, Musterstraße 1, 10115 Berlin,
+        HILDE Health GmbH, Musterstraße 1, 10115 Berlin,
         kontakt@hilde-health.de
       </p>
       <h2 className="font-display text-xl text-ink">Kontaktaufnahme</h2>
